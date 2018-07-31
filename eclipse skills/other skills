@@ -1,0 +1,27 @@
+                                                     
+                                                     eclipse skills
+
+1、如果自定义了快捷键，但是使用还无效，可能是某些软件的热键冲突，找到冲突软件干掉快捷键
+ 
+2、按住ctrl可以类似超链接点击进去，查看源码。 
+ 
+3、鼠标放在特定的方法或者类上，可以查看方法或类的文档注释
+   
+4、 将光标放在}后面双击可以看到该}所作用的范围
+ 
+5、Keys快捷键的设置Bind以及UnBind：	Window-Preference-General-Keys-
+ 
+6、左侧explorer显示与隐藏：	Window->Show View->Project Explorer或Package Explorer
+ 
+7、光标放在某一行，左边有一段亮度条，即该行属于的方法或类的长度
+ 
+8、一个工程的其他文件要放在工程的根目录下,路径中直接写文件名，即默认的是访问工程的目录。
+如果把文件放在了其他目录，要写明相对路径，相对于该工程的目录。
+  
+9、Link With Editor:即将所打开的文档在左侧的Project Explorer 中显示出来：点击一个带双箭头的按钮即可
+
+10、将源文件关联到导入的jar包中，这样就可以直接点击jar包中的内容查看源代码：在点击出来的页面点Accached source按钮就可以导入源文件了
+
+11、outline透视图可以帮助我们快速的对类进行预览：属性和方法
+
+12、快速生成一些代码（如构造函数，set和get以及toString、HashCode等）：鼠标右键-->source-->generate...

@@ -1,0 +1,81 @@
+
+                                            shortcut keys 
+1、代码提示快捷键：							alt + /
+
+2、 快捷更正需要导入的包：						ctrl + shift + o
+
+3、 删除选中行代码：							ctrl + d
+
+4、 复制当前行代码：							ctrl + alt + 上/下
+
+5、try/catch 处理语句: 					shift + alt + z
+
+6、 格式化选中的代码: 						ctrl + shift + f
+
+7、 弹出快捷修复菜单：						ctrl + 1
+
+8、将选中的内容加上注释:/*内容*/：				Shift + Ctrl + /
+
+9、查看类中的所有方法：						ctrl + o  
+ 注：它可以列出当前类中的所有方法及属性，你只需输入你想要查询的方法名，点击enter就能够直接跳转至你想去的位置
+
+10、打开资源：								ctrl + shift + r 
+注：这组快捷键可以让你打开你的工作区中任何一个文件，而你只需要按下文件名或文件名中的前几个字母
+
+11、列出当前打开的选项卡，上下可以选择以便快速切换：ctrl+e
+
+12、直接切换选项卡：							ctrl + pgup/pgdn
+
+13、增大/减小字体:							ctrl +-
+
+14、撤销上一步操作:							ctrl + z
+
+15、前进一步:								ctrl + y 
+
+16、全屏当前view: 							ctrl + m 
+
+17、自动补全代码:							ctrl + 2释放,再按L; 
+注：如写new String("fdf");
+自动补全为：String String = new String("fdf");
+
+18、鼠标移动到方法名或者属性名上按下，重命名:		alt + shift + r
+
+19、跳到一个词段的左边/右边：					ctrl + left/right; 
+	选择一段词：							ctrl + shift + left/right
+
+20、页面向下/上滚动：						ctrl + down/up
+
+21、在当前行下一行插入新的空白行:				shift + enter
+
+22、在当前行的上一行插入一行空白行：				ctrl + shift + enter：
+ 
+23、跳到最后一次编辑的地方：					ctrl + Q
+ 
+24、将当前行上移或者下移：						Ait + up/down
+ 
+25、弹出properties：						Alt + enter
+
+26、查找选择的内容：							ctrl + k
+
+27、添加文档注释（javadoc的注释）：	shift + alt + j
+
+28、查找参数或者方法在代码中的所有位置：  	ctrl + alt + h
+
+29、窗口的切换：					ctrl + F7 
+
+30、快速生成：                                                  Shift+alt +s
+
+31、快速产生与当前文字相匹配的相同内容： ctrl+ alt +/
+
+32、查看一个类的完整继承关系：       选中类名按F4
+
+33、直接查看API文档，选中类或者方法按：shift+F2
+
+34、转到定义：F3光标放在类或者方法上按F3可以跳出该方法或者类的源码,如果是变量，就转到定义处；
+
+35、全局搜索： ctrl + H
+
+
+
+
+
